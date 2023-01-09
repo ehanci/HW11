@@ -1,5 +1,5 @@
 ## Master Branch
-this change is made in master branch
+This change is made in master branch
 
 ## myBranch
-this change is made in myBranch
+This change is made in myBranch
